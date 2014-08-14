@@ -1,2 +1,1 @@
-jekyll-sync
-===========
+# Jekyll Sync
